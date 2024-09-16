@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 💕 AetherCare: AI-Powered Wellness Consultant 🤖
 
 
